@@ -12,7 +12,7 @@ github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "The present is the point of power"
-sidebar-avatar: /img/IMG_3836.JPG      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/woodgenie.JPG      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -86,7 +86,7 @@ ga_domain: auto               # 默认的是 auto, 这里我是自定义了的�
 
 # Featured Tags
 featured-tags: true                     # 是否使用首页标签
-featured-condition-size:               # 相同标签数量大于这个数，才会出现在首页
+featured-condition-size: 1              # 相同标签数量大于这个数，才会出现在首页
 
 
 
